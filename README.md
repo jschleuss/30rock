@@ -1,6 +1,6 @@
 # yes
 
-(https://img.buzzfeed.com/buzzfeed-static/static/2014-10/5/17/enhanced/webdr04/anigif_enhanced-30655-1412543684-23.gif?downsize=700:*&output-format=auto&output-quality=auto)
+!(https://img.buzzfeed.com/buzzfeed-static/static/2014-10/5/17/enhanced/webdr04/anigif_enhanced-30655-1412543684-23.gif?downsize=700:*&output-format=auto&output-quality=auto)
 
 (https://i.gifer.com/3Wqz.gif)
 
